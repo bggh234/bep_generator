@@ -1,0 +1,1 @@
+{"header": {"format_version": 2, "uuid": "123412341234", "name": "ABC", "version": [0, 1, 0], "min_engine_version": [1, 18, 0]}, "modules": [{"uuid": "123412341234", "type": "data", "version": [0, 1, 0], "discription": ""}], "dependencies": [], "metadata": {"authors": ["Unknown"], "licence": "None", "url": "None"}}
